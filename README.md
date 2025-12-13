@@ -411,7 +411,6 @@ Directory.CreateDirectory(outDir);</code></pre>
 
 <p>
   A complete walkthrough is available on YouTube (click the image below).
-  If you update the video, replace the VIDEO_ID in the link and thumbnail URL.
 </p>
 
 <!-- Replace VIDEO_ID with your YouTube video ID -->
