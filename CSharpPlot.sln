@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPlot.Line", "CSharpPlot.Line\CSharpPlot.Line.csproj", "{AE004C78-98E8-4DD7-AAA2-6D91D1CBD966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpPlot.Histogram", "CSharpPlot.Histogram\CSharpPlot.Histogram.csproj", "{BA0E2CAB-2F40-4CC0-9CB7-57951ACFFA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE004C78-98E8-4DD7-AAA2-6D91D1CBD966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE004C78-98E8-4DD7-AAA2-6D91D1CBD966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE004C78-98E8-4DD7-AAA2-6D91D1CBD966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE004C78-98E8-4DD7-AAA2-6D91D1CBD966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0E2CAB-2F40-4CC0-9CB7-57951ACFFA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0E2CAB-2F40-4CC0-9CB7-57951ACFFA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0E2CAB-2F40-4CC0-9CB7-57951ACFFA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0E2CAB-2F40-4CC0-9CB7-57951ACFFA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1485826C-3857-46BE-BB92-CEB37420CC2C}
+	EndGlobalSection
+EndGlobal
