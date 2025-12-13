@@ -414,9 +414,9 @@ Directory.CreateDirectory(outDir);</code></pre>
 </p>
 
 <!-- Replace VIDEO_ID with your YouTube video ID -->
-<a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
+<a href="https://www.youtube.com/watch?v=ItI79hGPehg" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/VIDEO_ID/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/ItI79hGPehg/maxresdefault.jpg"
     alt="C# Plotting with ScottPlot - Implementation Tutorial"
     style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.15); margin-top: 0.5rem;"
   />
