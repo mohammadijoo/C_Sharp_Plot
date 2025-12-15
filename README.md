@@ -22,16 +22,16 @@
 <!-- ========================================================= -->
 
 <ul style="list-style: none; padding-left: 0; font-size: 0.95rem;">
-  <li>• <a href="#about-this-repository">About this repository</a></li>
-  <li>• <a href="#library-scottplot">Library: ScottPlot</a></li>
-  <li>• <a href="#prerequisites">Prerequisites</a></li>
-  <li>• <a href="#setup-and-run-visual-studio-2022">Setup and run (Visual Studio 2022)</a></li>
-  <li>• <a href="#setup-and-run-dotnet-cli">Setup and run (.NET CLI)</a></li>
-  <li>• <a href="#project-structure">Project structure</a></li>
-  <li>• <a href="#output-files-and-working-directory">Output files and working directory</a></li>
-  <li>• <a href="#line-plots-module">Line plots module</a></li>
-  <li>• <a href="#histogram-plots-module">Histogram plots module</a></li>
-  <li>• <a href="#implementation-tutorial-video">Implementation tutorial video</a></li>
+  <li> <a href="#about-this-repository">About this repository</a></li>
+  <li> <a href="#library-scottplot">Library: ScottPlot</a></li>
+  <li> <a href="#prerequisites">Prerequisites</a></li>
+  <li> <a href="#setup-and-run-visual-studio-2022">Setup and run (Visual Studio 2022)</a></li>
+  <li> <a href="#setup-and-run-dotnet-cli">Setup and run (.NET CLI)</a></li>
+  <li> <a href="#project-structure">Project structure</a></li>
+  <li> <a href="#output-files-and-working-directory">Output files and working directory</a></li>
+  <li> <a href="#line-plots-module">Line plots module</a></li>
+  <li> <a href="#histogram-plots-module">Histogram plots module</a></li>
+  <li> <a href="#implementation-tutorial-video">Implementation tutorial video</a></li>
 </ul>
 
 <hr />
