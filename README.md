@@ -1,4 +1,4 @@
-<div align="center" style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6;">
+<div style="font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; line-height: 1.6;">
 
   <h1 style="margin-bottom: 0.2em;">C# Plotting Playground</h1>
 
@@ -9,7 +9,7 @@
     additional plot types (e.g., pie charts, bar charts, scatter plots, heatmaps) over time.
   </p>
 
-  <p style="font-size: 0.85rem; color: #666; margin-top: 0.5em;">
+  <p style="font-size: 1rem; color: #666; margin-top: 0.5em;">
     Built with .NET (Console Apps), NuGet, and Visual Studio 2022.
   </p>
 
